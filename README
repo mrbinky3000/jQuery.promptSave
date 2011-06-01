@@ -1,0 +1,7 @@
+Attach this widget to form elements and it will monitor the form for changes. The user is then asked to confirm if they want to leave the page only if they have yet to save their data. 
+
+example:
+
+$('form').promptSave();
+
+
